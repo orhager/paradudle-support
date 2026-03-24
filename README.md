@@ -17,3 +17,4 @@ If you have questions, feedback, or run into any issues, please [open an issue](
 ## Privacy
 
 Paradudle does not collect, store, or share any personal data. All practice data stays on your device.
+
